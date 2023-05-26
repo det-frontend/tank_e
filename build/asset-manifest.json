@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2223fbf4.css",
+    "main.js": "/static/js/main.40de601f.js",
+    "static/media/Circuit Board.svg": "/static/media/Circuit Board.f2d277d24bcda77f247a.svg",
+    "static/media/gas-station-svgrepo-com.png": "/static/media/gas-station-svgrepo-com.fe9b2a3a20f8dfbb2bab.png",
+    "static/media/speedometer-svgrepo-com.png": "/static/media/speedometer-svgrepo-com.3d3e11dca4fb19c7122f.png",
+    "static/media/car-repair-car-svgrepo-com.png": "/static/media/car-repair-car-svgrepo-com.d1fd53b117a2fe689c92.png",
+    "static/media/weekly-calendar-day-svgrepo-com.png": "/static/media/weekly-calendar-day-svgrepo-com.42ba402fbabe6d47b00f.png",
+    "static/media/gas-station-svgrepo-com-2.png": "/static/media/gas-station-svgrepo-com-2.437443c14be425d679f7.png",
+    "static/media/chart-graphic-svgrepo-com.png": "/static/media/chart-graphic-svgrepo-com.be3ad413e82087857b55.png",
+    "static/media/bars-chart-stand-svgrepo-com.png": "/static/media/bars-chart-stand-svgrepo-com.2dbd2f61b2bfb94aa3e0.png",
+    "static/media/laptop-document-svgrepo-com (1).png": "/static/media/laptop-document-svgrepo-com (1).2b29eb89ebcac8d039d5.png",
+    "static/media/gas-station-fuel-svgrepo-com.png": "/static/media/gas-station-fuel-svgrepo-com.f9bfb349b2e2467283f8.png",
+    "static/media/chart-bar-chart-svgrepo-com.png": "/static/media/chart-bar-chart-svgrepo-com.dc61ab4201c54901d9d0.png",
+    "static/media/chart-ratings-svgrepo-com.png": "/static/media/chart-ratings-svgrepo-com.fda6fbb1d1e2a5d76a7a.png",
+    "static/media/arrow-right-svgrepo-com.png": "/static/media/arrow-right-svgrepo-com.817a0c043dd6db1f673f.png",
+    "static/media/steelTank.jpeg": "/static/media/steelTank.c00710e63470941a3c94.jpeg",
+    "static/media/Animated Shape-3.svg": "/static/media/Animated Shape-3.598e664dd38eb4df83aa.svg",
+    "index.html": "/index.html",
+    "main.2223fbf4.css.map": "/static/css/main.2223fbf4.css.map",
+    "main.40de601f.js.map": "/static/js/main.40de601f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2223fbf4.css",
+    "static/js/main.40de601f.js"
+  ]
+}
